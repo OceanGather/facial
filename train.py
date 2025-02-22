@@ -9,5 +9,5 @@ if __name__ == "__main__":
         data="dataset/loopy.yaml",
         epochs=1000,
         imgsz=640,
-        # device="0",
+        device=0,
     )
